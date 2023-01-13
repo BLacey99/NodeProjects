@@ -1,0 +1,11 @@
+Begin Logs:
+
+Message: Hello World
+ID: 28306cd2-ea0a-4354-ad0a-fadc25650607
+
+Message: Yeet
+ID: f88489aa-66f0-41bd-b3b3-4e2ed6eea76f
+
+Message: Test
+ID: 2a8e8cd1-0740-42de-a107-9d533d8ce22f
+
